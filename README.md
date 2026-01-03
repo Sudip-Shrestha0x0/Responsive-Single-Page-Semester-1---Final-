@@ -2,7 +2,8 @@
 
 This was my final project for my first semester at college. It's a fully responsive single-page website built from scratch using HTML and CSS.
 
-##[View Live](https://sudip-shrestha0x0.github.io/Responsive-Single-Page-Semester-1---Final-/)
+[View Live Project](https://sudip-shrestha0x0.github.io/Responsive-Single-Page-Semester-1---Final-/)
+
 ## About This Project
 
 I created this website for a fictional media company called "Three Star Media." The assignment was to build a mobile-first responsive website that adapts seamlessly from mobile devices to desktop screens. This was one of my first real projects where I had to put together everything I learned about HTML, CSS, Flexbox, and Grid.
